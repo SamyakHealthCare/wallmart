@@ -1,4 +1,2 @@
 Hello..
-This file contains Deployment script.
-
-Good Morning!!!
+This file contains Deployment script..
